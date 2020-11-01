@@ -1,4 +1,4 @@
-# Cerdas-F2
+# Cerdas F2
 This is hardware design of Arduino Mega 2560 core. This design is based on Naked Mega designed by Fuzzy Studio
 
 Please see this original design , created by Fuzzy Studio
